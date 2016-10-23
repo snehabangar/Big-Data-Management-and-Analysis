@@ -1,0 +1,10 @@
+2P5IdbqvM3tNWYNxqT6uww	2060 US 52 WWest Lafayette, IN 47906	List(Pet Services, Pet Boarding/Pet Sitting, Pets)	5.0
+3zbn-_sbGX3WN0ryqz7g-A	332 S State StDowntown Ann ArborAnn Arbor, MI 48113	List(Music & DVDs, Books, Mags, Music and Video, Shopping)	5.0
+Aj4VcyWnXHQrYBjkoQj8QQ	201 Catherine StKerrytown Ann ArborAnn Arbor, MI 48104	List(Print Media, Mass Media)	5.0
+EdsqmhS7q_lcgiNvqcmQVQ	1322 Morro StSan Luis Obispo, CA 93401	List(Doctors, Health and Medical)	5.0
+dLJgjRFphvHoQQsC9tEyTQ	240 S 40th St3rd FlUniversity CityPhiladelphia, PA 19104	List(Dentists, Health and Medical, Orthodontists)	5.0
+fiBWopkHRODUJOty0uD2zg	580 Hilgard AveWestwoodLos Angeles, CA 90024	List(Churches, Religious Organizations)	5.0
+fpLDYV0GdGEgu-CNeGUIIw	Alfred Lerner Hall2920 Broadway, 4th FlMorningside HeightsNew York, NY 10027	List(Food, Ice Cream & Frozen Yogurt)	5.0
+qWj_LBKt4HJ7XtXoJ6WKYg	350 S Lake AvePasadenaPasadena, CA 91101	List(Counseling & Mental Health, Health and Medical)	5.0
+uFsmwFQI1qnWbGc-GAunRQ	95 King Street WKitchener, ON N2G 1A7	List(Local Services, Dry Cleaning & Laundry, Sewing & Alterations)	5.0
+zexf62MpjCRJ8zaS69c_pw	3651 McCarty LnLafayette, IN 47905	List(Shopping, Flowers & Gifts, Nurseries & Gardening, Florists, Home & Garden)	5.0
